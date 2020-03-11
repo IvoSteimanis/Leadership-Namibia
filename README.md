@@ -8,4 +8,4 @@ In this study, we test the common conception that democratically elected leaders
 The code in this repository can be used to reproduce the figures and tests in Stata (some packages need to be installed via SSC) but the data file can of course be used with other programs like R or SPSS.
 - "analysis_leadership.do" includes the Stata code
 - "leadership.dta" includes the experimental and survey data in Stata format (.dta) & "leadership.xlsx" includes these data in Excel format (.xlsx)
-- "afro_r6.dta" includes the Afrobarometer data in Stata format (.dta) & "afro_r6.xlsx" includes these data in Excel format (.xlsx)
+- The Round 6 Afrobarometer Data used to create Figure 6 is freely available on https://www.afrobarometer.org/
